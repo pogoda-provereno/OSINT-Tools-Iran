@@ -4,7 +4,7 @@
 
 A list of OSINT tools that may be useful to you when conducting investigations related to the  Islamic Republic of Iran. Most local resources have versions in Persian only. Always remember about OPSEC.
 
-![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-Iran?label=Last%20updated)
+![Last updated](https://img.shields.io/github/last-commit/pogoda-provereno/OSINT-Tools-Iran?label=Last%20updated)
 
 ***
 
