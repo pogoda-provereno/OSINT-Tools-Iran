@@ -1,7 +1,6 @@
-
 # OSINT-Tools-Iran
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/640px-Flag_of_Iran.svg.png" alt="Iran_FLAG"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Iran_FLAG"/>
 
 A list of OSINT tools that may be useful to you when conducting investigations related to the  Islamic Republic of Iran. Most local resources have versions in Persian only. Always remember about OPSEC.
 
